@@ -34,7 +34,7 @@ function namesSorter(departmentsArray) {
   });
   // ordernar alfabeticamente
   // newArr = newArr.sort()
-  console.log(newArr);
+  // console.log(newArr);
   return newArr;
 }
 namesSorter(arr)
